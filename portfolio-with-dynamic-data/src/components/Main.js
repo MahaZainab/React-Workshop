@@ -1,7 +1,7 @@
 // src/components/Main.js
 
 import React from 'react';
-import { content } from '../content';
+import { content } from './content';
 import './Main.css';
 
 const Main = () => {
